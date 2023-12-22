@@ -67,7 +67,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto: dgarg6333@gmail.com">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://drive.google.com/uc?export=download&id=1v_4Kf1Cro1cS4R-MzNOZAwksQOsP7BwD"/>
   </a>
   <a href="https://twitter.com/Deepans51432965?t=qF3zJY0F6nnB94FOEFp8-A&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
