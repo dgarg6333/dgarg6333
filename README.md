@@ -70,6 +70,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://drive.google.com/uc?export=download&id=1v_4Kf1Cro1cS4R-MzNOZAwksQOsP7BwD"/>
   </a>
   <a href="https://twitter.com/Deepans51432965?t=qF3zJY0F6nnB94FOEFp8-A&s=09">
-    <img src="https://drive.google.com/uc?export=download&id=1vdnMhVrvgFLyH1HJGMEsjnI5QZ9On3rG"/>
+    <img src="https://drive.google.com/uc?export=download&id=1vfk6l6acjVD8l2WMZJLiW8pwlXA2TLE5"/>
   </a>
 </div>
