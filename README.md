@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **dgarg6333/dgarg6333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>
+  hey!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  , I'm deepanshu 
+</h1>
+<div align="center">
+  <img src="https://drive.google.com/file/d/1vQlqo2g0JnRU_T_jp8HVJB_X8DV7ADh-/view?usp=drivesdk" width="600" height="300"/>
+</div>
