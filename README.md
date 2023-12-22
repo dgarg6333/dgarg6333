@@ -64,12 +64,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/deepanshu-garg-515a9022a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://drive.google.com/uc?export=download&id=1vdhYYIVqQWOY7PzOXiMbb6M-avnxtaWV"/>
   </a>
   <a href="mailto: dgarg6333@gmail.com">
     <img src="https://drive.google.com/uc?export=download&id=1v_4Kf1Cro1cS4R-MzNOZAwksQOsP7BwD"/>
   </a>
   <a href="https://twitter.com/Deepans51432965?t=qF3zJY0F6nnB94FOEFp8-A&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://drive.google.com/uc?export=download&id=1vdnMhVrvgFLyH1HJGMEsjnI5QZ9On3rG"/>
   </a>
 </div>
