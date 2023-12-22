@@ -60,7 +60,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <hr>
 
-<h2>Connect with me </h2>
+<h2>Connect with me 🤝</h2>
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/deepanshu-garg-515a9022a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
